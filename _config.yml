@@ -36,10 +36,10 @@ header_pages:
     - pc.markdown
     - schedule.markdown
     - speakers.markdown
-    - preceding.markdown
+    # - preceding.markdown
 
 style: hacker
-remote_theme: wordplay-workshop/jekyll-theme-console
+remote_theme: b2a3e8/jekyll-theme-console
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
