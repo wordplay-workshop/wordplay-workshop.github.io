@@ -11,7 +11,7 @@ permalink: /organizers/
 
 <img src="https://wordplay-workshop.github.io/img/marc.jpg" alt="Marc" width="195"/>|  <img src="https://wordplay-workshop.github.io/img/adam.jpg" alt="Adam" width="195"/> |  <img src="https://wordplay-workshop.github.io/img/kory.jpg" alt="Kory" width="195"/> |
 :---------------:|:---------------:|:-------------:
-[Marc-Alexandre Côté](https://www.microsoft.com/en-us/research/people/macote/)<br>Microsoft Research | [Adam Trischler](https://www.microsoft.com/en-us/research/people/adtrisch/)<br>Microsoft Research | [Kory Mathewson](https://korymathewson.com/)<br>Deepmind
+[Marc-Alexandre Côté](https://www.microsoft.com/en-us/research/people/macote/)<br>Microsoft Research | [Adam Trischler](https://www.microsoft.com/en-us/research/people/adtrisch/)<br>Microsoft Research | [Kory Mathewson](https://korymathewson.com/)<br>DeepMind
 
 
 <img src="https://wordplay-workshop.github.io/img/jack.jpg" alt="Jack" width="195"/>|  <img src="https://wordplay-workshop.github.io/img/jason.jpg" alt="Jason" width="195"/> |  <img src="https://wordplay-workshop.github.io/img/mark.png" alt="Mark" width="195"/> |
