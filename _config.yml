@@ -36,7 +36,7 @@ header_pages:
     - pc.markdown
     - schedule.markdown
     - speakers.markdown
-    # - preceding.markdown
+    - preceding.markdown
 
 style: hacker
 markdown: kramdown
