@@ -48,11 +48,11 @@ permalink: /
 <br/> <br/>
 
 
-Wordplay: When Language Meets Games @ NeurIPS 2020.<br/><br/>
+Wordplay: When Language Meets Games @ NAACL 2022.<br/><br/>
 
-Date and time: Full day workshop on Sat the 12<sup>th</sup>.
+Date and time: Full day workshop on July 14<sup>th</sup>.
 
-Location: [NeurIPS virtual workshop](https://neurips.cc/virtual/2020/protected/workshop_16160.html).
+Location: [NAACL hybrid workshop](https://2022.naacl.org/program/).
 
 # One line version: Your one stop shop for all things interactive narrative + AI!
 

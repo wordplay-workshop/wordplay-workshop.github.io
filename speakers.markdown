@@ -5,22 +5,22 @@ permalink: /speakers/
 ---
 
 
-<img src="https://wordplay-workshop.github.io/img/angela.jpg" alt="Angela" width="300"/>
-[Angela Fan](https://ai.facebook.com/people/angela-fan)<br>Facebook AI Research <br><br>
+<img src="https://wordplay-workshop.github.io/img/dawn.jpg" alt="Dawn" width="200"/>
+[Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/)<br>Berkeley <br><br>
 {: style="text-align: center;"}
 
-<img src="https://wordplay-workshop.github.io/img/dafna.jpg" alt="Dafna" width="300"/>
-[Dafna Shahaf](http://www.hyadatalab.com/)<br>Hebrew University of Jerusalem <br><br>
+<img src="https://wordplay-workshop.github.io/img/shrimai.jpg" alt="Shrimai" width="200"/>
+[Shrimai Prabhumoye](https://www.cs.cmu.edu/~sprabhum/)<br>Nvidia <br><br>
 {: style="text-align: center;"}
 
-<img src="https://wordplay-workshop.github.io/img/karthik.jpg" alt="Karthik" width="300"/>
-[Karthik Narasimhan](https://www.cs.princeton.edu/~karthikn/)<br>Princeton University <br><br>
+<img src="https://wordplay-workshop.github.io/img/tim.jpg" alt="Tim" width="200"/>
+[Tim Rocktäschel](https://rockt.github.io/)<br>University College London & Meta AI Research <br><br>
 {: style="text-align: center;"}
 
-<img src="https://wordplay-workshop.github.io/img/nanyun.jpg" alt="Nanyun" width="300"/>
-[Nanyun (Violet) Peng](https://vnpeng.net/)<br>University of California, Los Angeles <br><br>
+<img src="https://wordplay-workshop.github.io/img/hal.png" alt="Hal" width="200"/>
+[Hal Daumé III](http://hal3.name/)<br>University of Maryland & Microsoft Research <br><br>
 {: style="text-align: center;"}
 
-<img src="https://wordplay-workshop.github.io/img/nick.jpg" alt="Nick" width="300"/>
-[Nick Walton](https://latitude.io/)<br> Latitude - AI Dungeon
+<img src="https://wordplay-workshop.github.io/img/peter.jpg" alt="Peter" width="200"/>
+[Peter Jansen](http://cognitiveai.org/)<br> University of Arizona <br><br>
 {: style="text-align: center;"}

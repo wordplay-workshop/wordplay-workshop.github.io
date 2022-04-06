@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Wordplay: When Language Meets Games (NeurIPS 2020 Workshop)"
+title: "Wordplay: When Language Meets Games (NAACL 2022 Workshop)"
 footer: '<a href="mailto:wordplay.workshop.organizers@gmail.com">Contact us</a>'
 description: >- # this means to ignore newlines until "baseurl:"
-  Official website for the Wordplay Workshop at NeurIPS 2020.
+  Official website for the Wordplay Workshop at NAACL 2022.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wordplay-workshop.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -31,8 +31,8 @@ url: "https://wordplay-workshop.github.io/" # the base hostname & protocol for y
 #
 header_pages:
     - index.markdown
-    # - cfp.markdown
-    - accepted.markdown
+    - cfp.markdown
+    # - accepted.markdown
     - organizers.markdown
     - pc.markdown
     - schedule.markdown
