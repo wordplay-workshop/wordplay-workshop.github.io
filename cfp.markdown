@@ -6,7 +6,7 @@ permalink: /cfp/
 
 **Submission website:** [OpenReview](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/Wordplay).
 
-**Submission deadline:** 15<sup>th</sup> May 2022 (23:59 AoE)
+**Submission deadline:** ~~15<sup>th</sup> May 2022 (23:59 AoE)~~ 31<sup>st</sup> May 2022 (23:59 AoE)
 
 **Author notification:** 3<sup>rd</sup> June 2022 (23:59 AoE)<br/><br/>
 
