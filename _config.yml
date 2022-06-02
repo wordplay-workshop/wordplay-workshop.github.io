@@ -34,7 +34,7 @@ header_pages:
     - cfp.markdown
     # - accepted.markdown
     - organizers.markdown
-    - pc.markdown
+    # - pc.markdown
     - schedule.markdown
     - speakers.markdown
     - preceding.markdown
