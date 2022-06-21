@@ -4,10 +4,10 @@ title: /speakers
 permalink: /speakers/
 ---
 
-
+<!-- 
 <img src="https://wordplay-workshop.github.io/img/dawn.jpg" alt="Dawn" width="200"/>
 [Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/)<br>Berkeley <br><br>
-{: style="text-align: center;"}
+{: style="text-align: center;"} -->
 
 <img src="https://wordplay-workshop.github.io/img/shrimai.jpg" alt="Shrimai" width="200"/>
 [Shrimai Prabhumoye](https://www.cs.cmu.edu/~sprabhum/)<br>Nvidia <br><br>
