@@ -44,3 +44,6 @@ permalink: /organizers/
 <img src="https://wordplay-workshop.github.io/img/jason.jpg" alt="Jason" width="300">
 [Jason Weston](https://www.thespermwhale.com/jaseweston/)<br>Meta AI Research <br><br>
 {: style="text-align: center;"}
+
+The organizers want to thank [Guiliang Liu](http://guiliang.me/) and [Raghuram Mandyam Annasamy](https://www.linkedin.com/in/maraghuram/) for helping in the reviewing process.
+{: style="text-align: center;"}
