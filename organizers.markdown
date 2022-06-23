@@ -22,7 +22,7 @@ permalink: /organizers/
 {: style="text-align: center;"}
 
 <img src="https://wordplay-workshop.github.io/img/matthew.png" alt="Matthew" width="300">
-[Matthew Hausknecht](https://www.microsoft.com/en-us/research/people/mahauskn/)<br>Microsoft Research <br><br>
+[Matthew Hausknecht](https://mhauskn.github.io/)<br>Argo AI <br><br>
 {: style="text-align: center;"}
 
 <img src="https://wordplay-workshop.github.io/img/kory.jpg" alt="Kory" width="300">
