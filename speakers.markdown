@@ -9,7 +9,7 @@ permalink: /speakers/
 {: style="text-align: center;"}
 
 <img src="https://wordplay-workshop.github.io/img/tim.jpg" alt="Tim" width="200"/>
-[Tim Rocktäschel](https://rockt.github.io/)<br>University College London & Meta AI Research <br><br>
+[Tim Rocktäschel](https://rockt.github.io/)<br>University College London & Deepmind <br><br>
 {: style="text-align: center;"}
 
 <img src="https://wordplay-workshop.github.io/img/hal.png" alt="Hal" width="200"/>
