@@ -4,11 +4,6 @@ title: /speakers
 permalink: /speakers/
 ---
 
-<!-- 
-<img src="https://wordplay-workshop.github.io/img/dawn.jpg" alt="Dawn" width="200"/>
-[Dawn Song](https://people.eecs.berkeley.edu/~dawnsong/)<br>Berkeley <br><br>
-{: style="text-align: center;"} -->
-
 <img src="https://wordplay-workshop.github.io/img/shrimai.jpg" alt="Shrimai" width="200"/>
 [Shrimai Prabhumoye](https://www.cs.cmu.edu/~sprabhum/)<br>Nvidia <br><br>
 {: style="text-align: center;"}
@@ -23,4 +18,8 @@ permalink: /speakers/
 
 <img src="https://wordplay-workshop.github.io/img/peter.jpg" alt="Peter" width="200"/>
 [Peter Jansen](http://cognitiveai.org/)<br> University of Arizona <br><br>
+{: style="text-align: center;"}
+
+<img src="https://wordplay-workshop.github.io/img/lynn.jpg" alt="Lynn" width="200"/>
+[Lynn Cherny](http://www.ghostweather.com/)<br> Ghostweather <br><br>
 {: style="text-align: center;"}

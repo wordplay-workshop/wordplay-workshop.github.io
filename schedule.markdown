@@ -17,7 +17,7 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>08:40&nbsp;&ndash;&nbsp;09:25</td>
-    <td>Invited Talk 1</td>
+    <td>Keynote 1 - Text Toys and Glitch Poetics - Lynn Cherny</td>
   </tr>
   <tr>
     <td>09:25&nbsp;&ndash;&nbsp;10:00</td>
@@ -29,11 +29,11 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>10:30&nbsp;&ndash;&nbsp;11:15</td>
-    <td>Invited Talk 2</td>
+    <td>Keynote 2 - Knowledge Intensive Reinforcement Learning - Tim Rocktäschel</td>
   </tr>
   <tr>
     <td>11:15&nbsp;&ndash;&nbsp;12:00</td>
-    <td>Invited Talk 3</td>
+    <td>Keynote 3 - Training Agents to Learn to Ask for Help in Virtual Environments - Hal Daumé III</td>
   </tr>
   <tr>
     <td>12:00&nbsp;&ndash;&nbsp;13:30</td>
@@ -41,11 +41,11 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>13:30&nbsp;&ndash;&nbsp;14:15</td>
-    <td>Invited Talk 4</td>
+    <td>Keynote 4 - Controllable Text Generation for Interactive Virtual Environments - Shrimai Prabhumoye</td>
   </tr>
   <tr>
     <td>14:15&nbsp;&ndash;&nbsp;15:00</td>
-    <td>Invited Talk 5</td>
+    <td>Keynote 5 - ScienceWorld: Is your Agent Smarter than a 5th Grader? - Peter Jansen</td>
   </tr>
   <tr>
     <td>15:00&nbsp;&ndash;&nbsp;15:05</td>
