@@ -60,7 +60,10 @@ permalink: /schedule/
     <td>Virtual Poster Session - All posters - [GatherTown link TBD]</td>
   </tr>
   <tr>
-    <td><b>Friday July 15<sup>th</sup></b></br> 15:30&nbsp;&ndash;&nbsp;16:30</td>
+    <td><hr/></td>
+  </tr>
+  <tr>
+    <td><b>Friday July 15<sup>th</sup></b> 15:30&nbsp;&ndash;&nbsp;16:30</td>
     <td>Joint In-person Poster Session with Narrative Understanding workshop - Regency ballroom on the 7<sup>th</sup></td>
   </tr>
 
