@@ -4,7 +4,7 @@ title: /schedule
 permalink: /schedule/
 ---
 
-<h3>Schedule (tentative)</h3>
+<h3>Schedule</h3>
 <br/>
 <table style="table-layout: fixed; width: 100%">
   <tr>
