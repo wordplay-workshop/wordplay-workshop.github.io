@@ -12,16 +12,12 @@ permalink: /schedule/
     <th>Event</th>
   </tr>
   <tr>
-    <td>08:30&nbsp;&ndash;&nbsp;08:40</td>
+    <td>09:00&nbsp;&ndash;&nbsp;09:10</td>
     <td>Opening Remarks</td>
   </tr>
   <tr>
-    <td>08:40&nbsp;&ndash;&nbsp;09:25</td>
+    <td>09:10&nbsp;&ndash;&nbsp;09:55</td>
     <td>Keynote 1 - Text Toys and Glitch Poetics - Lynn Cherny</td>
-  </tr>
-  <tr>
-    <td>09:25&nbsp;&ndash;&nbsp;10:00</td>
-    <td>Virtual Poster Session - All posters - [GatherTown link TBD]</td>
   </tr>
   <tr>
     <td>10:00&nbsp;&ndash;&nbsp;10:30</td>
@@ -56,7 +52,7 @@ permalink: /schedule/
     <td>Break</td>
   </tr>
   <tr>
-    <td>15:30&nbsp;&ndash;&nbsp;16:00</td>
+    <td>15:30&nbsp;&ndash;&nbsp;16:30</td>
     <td>Virtual Poster Session - All posters - [GatherTown link TBD]</td>
   </tr>
   <tr>
