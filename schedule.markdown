@@ -21,7 +21,7 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>09:25&nbsp;&ndash;&nbsp;10:00</td>
-    <td>Poster Session 1</td>
+    <td>Virtual Poster Session - All posters - [GatherTown link TBD]</td>
   </tr>
   <tr>
     <td>10:00&nbsp;&ndash;&nbsp;10:30</td>
@@ -57,7 +57,11 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>15:30&nbsp;&ndash;&nbsp;16:00</td>
-    <td>Poster Session 2</td>
+    <td>Virtual Poster Session - All posters - [GatherTown link TBD]</td>
+  </tr>
+  <tr>
+    <td><b>Friday July 15<sup>th</sup></b></br> 15:30&nbsp;&ndash;&nbsp;16:30</td>
+    <td>Joint In-person Poster Session with Narrative Understanding workshop - Regency ballroom on the 7<sup>th</sup></td>
   </tr>
 
 </table>
