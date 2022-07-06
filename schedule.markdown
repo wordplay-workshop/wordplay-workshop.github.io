@@ -5,6 +5,7 @@ permalink: /schedule/
 ---
 
 <h3>Schedule - Thursday, July 14<sup>th</sup> </h3>
+<h5>Zoom Link: <a href="#">TBD</a></h5>
 <br/>
 <table style="table-layout: fixed; width: 100%">
   <tr>
