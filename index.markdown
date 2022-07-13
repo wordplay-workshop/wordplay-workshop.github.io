@@ -52,7 +52,9 @@ Wordplay: When Language Meets Games @ NAACL 2022.<br/><br/>
 
 Date and time: Full day workshop on July 14<sup>th</sup>.
 
-Location:  Room 501 - Chiwawa (Virtual link: [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11181); Zoom Link TBD).
+Location:  Room 501 - Chiwawa
+
+Virtual links: [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11181); [Zoom link](https://us06web.zoom.us/j/85613091112?pwd=MFJNR29xV3Nqcm1LYU5OYjBmQWd6QT09); [GatherTown](https://app.gather.town/app/5LQQiHeAhrt5bszR/NAACL2022?spawnToken=cpu47TOFYIGy8KnK).
 
 # One line version: Your one stop shop for all things interactive narrative + AI!
 
