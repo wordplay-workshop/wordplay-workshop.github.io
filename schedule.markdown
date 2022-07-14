@@ -44,7 +44,7 @@ permalink: /schedule/
   </tr>
   <tr>
     <td></td>
-    <td><small>"Agent" has largely become synonymous with "autonomous agent", but I'll argue that scoping our study of agents to those that are fully autonomous is a mistake: instead, we should aim to train agents that can assist humans, and be assisted by humans. In line with this goal, I will describe recent and ongoing work in the space of assisted agent navigation, where agents can ask humans for help, and where they can describe their own behaviors. This talk will largely be based on joint work with Khanh Nguyen and Lingjun Zhao.</small></td>
+    <td><small>"Agent" has largely become synonymous with "autonomous agent", but I'll argue that scoping our study of agents to those that are fully autonomous is a mistake: instead, we should aim to train agents that can assist humans, and be assisted by humans. In line with this goal, I will describe recent and ongoing work in the space of assisted agent navigation, where agents can ask humans for help, and where they can describe their own behaviors. This talk will largely be based on joint work with Sudha Rao, Khanh Nguyen, Lingjun Zhao, and Yonatan Bisk.</small></td>
   </tr>
 
   <tr>
