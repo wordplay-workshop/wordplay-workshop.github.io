@@ -5,7 +5,7 @@ permalink: /schedule/
 ---
 
 <h3>Schedule - Thursday, July 14<sup>th</sup> </h3>
-<h5><a href="https://us06web.zoom.us/j/85613091112?pwd=MFJNR29xV3Nqcm1LYU5OYjBmQWd6QT09">Zoom Link</a></h5>
+<h5>Link to recorded talks: TBA</h5>
 <br/>
 <table style="table-layout: fixed; width: 100%">
   <tr>
@@ -79,7 +79,7 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>15:30&nbsp;&ndash;&nbsp;16:30</td>
-    <td>Virtual Poster Session - All posters - <a href='https://app.gather.town/app/5LQQiHeAhrt5bszR/NAACL2022?spawnToken=cpu47TOFYIGy8KnK'>GatherTown</a></td>
+    <td>Virtual Poster Session on GatherTown - All posters</td>
   </tr>
   <tr>
     <td><hr/></td>
