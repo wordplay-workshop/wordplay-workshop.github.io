@@ -54,7 +54,7 @@ Date and time: Full day workshop on July 14<sup>th</sup>.
 
 Location:  Room 501 - Chiwawa
 
-Virtual links: [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11181);.
+Virtual links: [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11181); [Live Session Recording](https://us06web.zoom.us/rec/play/K2d98lzc0iZG3Lo7nCF-0Ny2pI2UQOPsMjNmgvMaX56Yao3LgE-rzGuyvW5dOtI0lik5TcuijwVzgLZv.jIVR459jJ-jKPwXT).
 
 # One line version: Your one stop shop for all things interactive narrative + AI!
 
