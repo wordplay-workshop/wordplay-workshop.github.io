@@ -5,7 +5,7 @@ permalink: /schedule/
 ---
 
 <h3>Schedule - Thursday, July 14<sup>th</sup> </h3>
-<h5><a href="https://us06web.zoom.us/rec/play/K2d98lzc0iZG3Lo7nCF-0Ny2pI2UQOPsMjNmgvMaX56Yao3LgE-rzGuyvW5dOtI0lik5TcuijwVzgLZv.jIVR459jJ-jKPwXT">Live Session Recording</a></h5>
+<h5><a href="https://www.youtube.com/watch?v=XIQgB_MerAw">Live Session Recording</a></h5>
 <br/>
 <table style="table-layout: fixed; width: 100%">
   <tr>
@@ -18,7 +18,7 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>09:10&nbsp;&ndash;&nbsp;09:55</td>
-    <td>Keynote 1 - Text Toys and Glitch Poetics - Lynn Cherny <a href="https://us06web.zoom.us/rec/play/K2d98lzc0iZG3Lo7nCF-0Ny2pI2UQOPsMjNmgvMaX56Yao3LgE-rzGuyvW5dOtI0lik5TcuijwVzgLZv.jIVR459jJ-jKPwXT">[00:04:20]</a></td>
+    <td>Keynote 1 - Text Toys and Glitch Poetics - Lynn Cherny <a href="https://www.youtube.com/watch?v=XIQgB_MerAw&t=0">link</a></td>
   </tr>
   <tr>
     <td></td>
@@ -31,7 +31,7 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>10:30&nbsp;&ndash;&nbsp;11:15</td>
-    <td>Keynote 2 - Knowledge Intensive Reinforcement Learning - Tim Rocktäschel <a href="https://us06web.zoom.us/rec/play/K2d98lzc0iZG3Lo7nCF-0Ny2pI2UQOPsMjNmgvMaX56Yao3LgE-rzGuyvW5dOtI0lik5TcuijwVzgLZv.jIVR459jJ-jKPwXT">[01:29:17]</a></td>
+    <td>Keynote 2 - Knowledge Intensive Reinforcement Learning - Tim Rocktäschel <a href="https://www.youtube.com/watch?v=XIQgB_MerAw&t=5097">link</a></td>
   </tr>
   <tr>
     <td></td>
@@ -40,7 +40,7 @@ permalink: /schedule/
 
   <tr>
     <td>11:15&nbsp;&ndash;&nbsp;12:00</td>
-    <td>Keynote 3 - Training Agents to Learn to Ask for Help in Virtual Environments - Hal Daumé III <a href="https://us06web.zoom.us/rec/play/K2d98lzc0iZG3Lo7nCF-0Ny2pI2UQOPsMjNmgvMaX56Yao3LgE-rzGuyvW5dOtI0lik5TcuijwVzgLZv.jIVR459jJ-jKPwXT">[02:25:16]</a></td>
+    <td>Keynote 3 - Training Agents to Learn to Ask for Help in Virtual Environments - Hal Daumé III <a href="https://www.youtube.com/watch?v=XIQgB_MerAw&t=8456">link</a></td>
   </tr>
   <tr>
     <td></td>
@@ -53,7 +53,7 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>13:30&nbsp;&ndash;&nbsp;14:15</td>
-    <td>Keynote 4 - Controllable Text Generation for Interactive Virtual Environments - Shrimai Prabhumoye <a href="https://us06web.zoom.us/rec/play/K2d98lzc0iZG3Lo7nCF-0Ny2pI2UQOPsMjNmgvMaX56Yao3LgE-rzGuyvW5dOtI0lik5TcuijwVzgLZv.jIVR459jJ-jKPwXT">[04:37:39]</a></td>
+    <td>Keynote 4 - Controllable Text Generation for Interactive Virtual Environments - Shrimai Prabhumoye <a href="https://youtu.be/XIQgB_MerAw?t=16409">link</a></td>
   </tr>
   <tr>
     <td></td>
@@ -62,7 +62,7 @@ permalink: /schedule/
 
   <tr>
     <td>14:15&nbsp;&ndash;&nbsp;15:00</td>
-    <td>Keynote 5 - ScienceWorld: Is your Agent Smarter than a 5th Grader? - Peter Jansen <a href="https://us06web.zoom.us/rec/play/K2d98lzc0iZG3Lo7nCF-0Ny2pI2UQOPsMjNmgvMaX56Yao3LgE-rzGuyvW5dOtI0lik5TcuijwVzgLZv.jIVR459jJ-jKPwXT">[05:16:27]</a></td>
+    <td>Keynote 5 - ScienceWorld: Is your Agent Smarter than a 5th Grader? - Peter Jansen <a href="https://www.youtube.com/watch?v=XIQgB_MerAw&t=18727">link</a></td>
   </tr>
   <tr>
     <td></td>
