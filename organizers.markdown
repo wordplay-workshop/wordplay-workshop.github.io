@@ -9,32 +9,32 @@ permalink: /organizers/
 [Prithviraj Ammanabrolu](http://prithvirajva.com)<br>Allen Institute for AI <br><br>
 {: style="text-align: center;"}
 
-<img src="https://wordplay-workshop.github.io/img/eric.jpg" alt="Eric" width="300">
-[Xingdi Yuan](https://xingdi-eric-yuan.github.io/)<br>Microsoft Research <br><br>
-{: style="text-align: center;"}
-
 <img src="https://wordplay-workshop.github.io/img/marc.jpg" alt="Marc" width="300">
 [Marc-Alexandre Côté](https://www.microsoft.com/en-us/research/people/macote/)<br>Microsoft Research <br><br>
 {: style="text-align: center;"}
 
-<img src="https://wordplay-workshop.github.io/img/ash.jpg" alt="Ash" width="300">
-[Ashutosh Adhikari](https://ashutosh-adhikari.github.io/)<br>Microsoft Turing <br><br>
+<img src="https://wordplay-workshop.github.io/img/belinda.jpg" alt="Belinda" width="300">
+[Belinda Zou Li](https://belindal.github.io)<br>Massachusetts Institute of Technology <br><br>
 {: style="text-align: center;"}
 
-<img src="https://wordplay-workshop.github.io/img/matthew.png" alt="Matthew" width="300">
-[Matthew Hausknecht](https://mhauskn.github.io/)<br>Argo AI <br><br>
+<img src="https://wordplay-workshop.github.io/img/lara.jpg" alt="Lara" width="300">
+[Lara Martin](https://laramartin.net/)<br>University of Pennsylvania <br><br>
 {: style="text-align: center;"}
 
-<img src="https://wordplay-workshop.github.io/img/kory.jpg" alt="Kory" width="300">
-[Kory Mathewson](https://korymathewson.com/)<br>DeepMind <br><br>
+<img src="https://wordplay-workshop.github.io/img/violet.jpg" alt="Violet" width="300">
+[Nanyun (Violet) Peng](https://vnpeng.net/)<br>UCLA <br><br>
 {: style="text-align: center;"}
 
-<img src="https://wordplay-workshop.github.io/img/michiaki.jpg" alt="Kory" width="300">
-[Michiaki Tatsubori](https://researcher.watson.ibm.com/researcher/view.php?person=jp-MICH)<br>IBM Research <br><br>
+<img src="https://wordplay-workshop.github.io/img/alane.jpg" alt="Alane" width="300">
+[Alane Suhr](https://www.alanesuhr.com/)<br>Allen Institute for AI, UC Berkeley <br><br>
 {: style="text-align: center;"}
 
-<img src="https://wordplay-workshop.github.io/img/jack.jpg" alt="Jack" width="300">
-[Jack Urbanek](https://ai.facebook.com/people/jack-urbanek/)<br>Meta AI Research <br><br>
+<img src="https://wordplay-workshop.github.io/img/ronen.jpg" alt="Ronen" width="300">
+[Ronen Tamari](https://ronentk.github.io/)<br>The Hebrew University of Jerusalem <br><br>
+{: style="text-align: center;"}
+
+<img src="https://wordplay-workshop.github.io/img/laetitia.jpg" alt="Laetitia" width="300">
+[Laetitia Teodorescu](place.holder)<br>Inria, France <br><br>
 {: style="text-align: center;"}
 
 <img src="https://wordplay-workshop.github.io/img/adam.jpg" alt="Adam" width="300">
@@ -45,5 +45,6 @@ permalink: /organizers/
 [Jason Weston](https://www.thespermwhale.com/jaseweston/)<br>Meta AI Research <br><br>
 {: style="text-align: center;"}
 
-The organizers would like to thank [Guiliang Liu](http://guiliang.me/) and [Raghuram Mandyam Annasamy](https://www.linkedin.com/in/maraghuram/) for helping us in the reviewing process.
+<img src="https://wordplay-workshop.github.io/img/eric.jpg" alt="Eric" width="300">
+[Xingdi Yuan](https://xingdi-eric-yuan.github.io/)<br>Microsoft Research <br><br>
 {: style="text-align: center;"}
