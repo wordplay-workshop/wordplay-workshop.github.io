@@ -30,7 +30,7 @@ permalink: /organizers/
 {: style="text-align: center;"}
 
 <img src="https://wordplay-workshop.github.io/img/ronen.jpg" alt="Ronen" width="300">
-[Ronen Tamari](https://ronentk.github.io/)<br>The Hebrew University of Jerusalem <br><br>
+[Ronen Tamari](https://ronentk.github.io/)<br>The Hebrew University of Jerusalem, Israel <br><br>
 {: style="text-align: center;"}
 
 <img src="https://wordplay-workshop.github.io/img/laetitia.jpg" alt="Laetitia" width="300">
