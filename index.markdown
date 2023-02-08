@@ -48,13 +48,13 @@ permalink: /
 <br/> <br/>
 
 
-Wordplay: When Language Meets Games @ NAACL 2022.<br/><br/>
+Wordplay: When Language Meets Games @ ICML 2023.<br/><br/>
 
-Date and time: Full day workshop on July 14<sup>th</sup>.
+Date and time: TBD<sup>th</sup>.
 
-Location:  Room 501 - Chiwawa
+Location:  TBD
 
-Virtual links: [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11181); [Live Session Recording](https://www.youtube.com/watch?v=XIQgB_MerAw).
+Virtual links: TBD.
 
 # One line version: Your one stop shop for all things interactive narrative + AI!
 
