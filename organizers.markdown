@@ -17,7 +17,7 @@ permalink: /organizers/
 [Belinda Zou Li](https://belindal.github.io)<br>Massachusetts Institute of Technology <br><br>
 {: style="text-align: center;"}
 
-<img src="https://wordplay-workshop.github.io/img/lara.jpg" alt="Lara" width="300">
+<img src="https://wordplay-workshop.github.io/img/lara.jpeg" alt="Lara" width="300">
 [Lara Martin](https://laramartin.net/)<br>University of Pennsylvania <br><br>
 {: style="text-align: center;"}
 
@@ -29,7 +29,7 @@ permalink: /organizers/
 [Alane Suhr](https://www.alanesuhr.com/)<br>Allen Institute for AI, UC Berkeley <br><br>
 {: style="text-align: center;"}
 
-<img src="https://wordplay-workshop.github.io/img/ronen.jpg" alt="Ronen" width="300">
+<img src="https://wordplay-workshop.github.io/img/ronen.jpeg" alt="Ronen" width="300">
 [Ronen Tamari](https://ronentk.github.io/)<br>The Hebrew University of Jerusalem, Israel <br><br>
 {: style="text-align: center;"}
 
