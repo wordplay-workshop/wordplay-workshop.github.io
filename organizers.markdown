@@ -25,7 +25,7 @@ permalink: /organizers/
 [Nanyun (Violet) Peng](https://vnpeng.net/)<br>UCLA <br><br>
 {: style="text-align: center;"}
 
-<img src="https://wordplay-workshop.github.io/img/alane.jpg" alt="Alane" width="300">
+<img src="https://wordplay-workshop.github.io/img/alane.JPG" alt="Alane" width="300">
 [Alane Suhr](https://www.alanesuhr.com/)<br>Allen Institute for AI, UC Berkeley <br><br>
 {: style="text-align: center;"}
 
