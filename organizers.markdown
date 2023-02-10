@@ -34,7 +34,7 @@ permalink: /organizers/
 {: style="text-align: center;"}
 
 <img src="https://wordplay-workshop.github.io/img/laetitia.jpg" alt="Laetitia" width="300">
-[Laetitia Teodorescu](place.holder)<br>Inria, France <br><br>
+[Laetitia Teodorescu](https://twitter.com/lae_teo)<br>Inria, France <br><br>
 {: style="text-align: center;"}
 
 <img src="https://wordplay-workshop.github.io/img/adam.jpg" alt="Adam" width="300">
