@@ -13,7 +13,7 @@ permalink: /organizers/
 [Marc-Alexandre Côté](https://www.microsoft.com/en-us/research/people/macote/)<br>Microsoft Research <br><br>
 {: style="text-align: center;"}
 
-<img src="https://wordplay-workshop.github.io/img/belinda.png" alt="Belinda" width="300">
+<img src="https://wordplay-workshop.github.io/img/belinda.jpg" alt="Belinda" width="300">
 [Belinda Zou Li](https://belindal.github.io)<br>Massachusetts Institute of Technology <br><br>
 {: style="text-align: center;"}
 
@@ -21,7 +21,7 @@ permalink: /organizers/
 [Lara Martin](https://laramartin.net/)<br>University of Pennsylvania <br><br>
 {: style="text-align: center;"}
 
-<img src="https://wordplay-workshop.github.io/img/violet.png" alt="Violet" width="300">
+<img src="https://wordplay-workshop.github.io/img/violet.jpg" alt="Violet" width="300">
 [Nanyun (Violet) Peng](https://vnpeng.net/)<br>UCLA <br><br>
 {: style="text-align: center;"}
 
