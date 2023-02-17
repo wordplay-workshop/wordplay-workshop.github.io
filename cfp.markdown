@@ -4,7 +4,7 @@ title: /call_for_papers
 permalink: /cfp/
 ---
 
-**Submission website:** [OpenReview](https://openreview.net/group?id=aclweb.org/ICML/2023/Workshop/Wordplay).
+**Submission website:** TBD 
 
 **Submission deadline:** TBD
 
