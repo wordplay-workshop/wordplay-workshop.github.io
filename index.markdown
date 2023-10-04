@@ -48,7 +48,7 @@ permalink: /
 <br/> <br/>
 
 
-Wordplay: When Language Meets Games @ ICML 2023.<br/><br/>
+Wordplay: When Language Meets Games @ ACL 2024.<br/><br/>
 
 Date and time: TBD<sup>th</sup>.
 
