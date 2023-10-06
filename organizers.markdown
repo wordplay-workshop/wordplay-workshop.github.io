@@ -6,7 +6,7 @@ permalink: /organizers/
 
 
 <img src="https://wordplay-workshop.github.io/img/raj.jpg" alt="Prithviraj" width="300">
-[Prithviraj Ammanabrolu](http://prithvirajva.com)<br>Allen Institute for AI <br><br>
+[Prithviraj Ammanabrolu](http://prithvirajva.com)<br>MosaicML & University of California, San Diego (UCSD) <br><br>
 {: style="text-align: center;"}
 
 <img src="https://wordplay-workshop.github.io/img/marc.jpg" alt="Marc" width="300">
@@ -14,19 +14,19 @@ permalink: /organizers/
 {: style="text-align: center;"}
 
 <img src="https://wordplay-workshop.github.io/img/belinda.jpg" alt="Belinda" width="300">
-[Belinda Zou Li](https://belindal.github.io)<br>Massachusetts Institute of Technology <br><br>
+[Belinda Zou Li](https://belindal.github.io)<br>Massachusetts Institute of Technology (MIT) <br><br>
 {: style="text-align: center;"}
 
 <img src="https://wordplay-workshop.github.io/img/lara.jpeg" alt="Lara" width="300">
-[Lara Martin](https://laramartin.net/)<br>University of Pennsylvania <br><br>
+[Lara Martin](https://laramartin.net/)<br>University of Maryland, Baltimore County (UMBC) <br><br>
 {: style="text-align: center;"}
 
 <img src="https://wordplay-workshop.github.io/img/violet.jpg" alt="Violet" width="300">
-[Nanyun (Violet) Peng](https://vnpeng.net/)<br>UCLA <br><br>
+[Nanyun (Violet) Peng](https://vnpeng.net/)<br>University of California, Los Angeles (UCLA) <br><br>
 {: style="text-align: center;"}
 
 <img src="https://wordplay-workshop.github.io/img/alane.JPG" alt="Alane" width="300">
-[Alane Suhr](https://www.alanesuhr.com/)<br>Allen Institute for AI, UC Berkeley <br><br>
+[Alane Suhr](https://www.alanesuhr.com/)<br>University of California, Berkeley <br><br>
 {: style="text-align: center;"}
 
 <img src="https://wordplay-workshop.github.io/img/ronen.jpeg" alt="Ronen" width="300">
