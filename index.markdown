@@ -96,7 +96,7 @@ During the workshop, any participant who experiences harassment or hostile behav
 - M. G. Bellemare, Y. Naddaf, J. Veness, and M. Bowling. The arcade learning environment: An evaluation platform for general agents. 2013.
 - S. Bubeck, V. Chandrasekaran, R. Eldan, J. Gehrke, E. Horvitz, E. Kamar, P. Lee, Y. T. Lee, Y. Li, S. Lundberg, et al. Sparks of artificial general intelligence: Early experiments with GPT-4. 2023.
 - C. Callison-Burch, G. Singh Tomar, L. J. Martin, D. Ippolito, S. Bailis, and D. Reitter. Dungeons and Dragons as a Dialogue Challenge for Artificial Intelligence. 2022.
-- M.-A. Côté, ́Á. Kádár, X. Yuan, B. Kybartas, T. Barnes, E. Fine, J. Moore, M. Hausknecht, L. E.Asri, M. Adada, W. Tay, and A. Trischler. Textworld: A learning environment for text-based games. 2018.
+- M.-A. Côté, ́Á. Kádár, X. Yuan, Q. Kybartas, T. Barnes, E. Fine, J. Moore, M. Hausknecht, L. E.Asri, M. Adada, W. Tay, and A. Trischler. Textworld: A learning environment for text-based games. 2018.
 - A. Fan, J. Urbanek, P. Ringshia, E. Dinan, E. Qian, S. Karamcheti, S. Prabhumoye, D. Kiela, T. Rocktaschel,A. Szlam, and Others. Generating Interactive Worlds with Text. 2019.
 - J. Feldman and S. Narayanan. Embodied meaning in a neural theory of language. 2004.
 - N. Fulda, D. Ricks, B. Murdoch, and D. Wingate. What Can You Do with a Rock? Affordance Extraction via Word Embeddings. 2017.
