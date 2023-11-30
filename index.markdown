@@ -50,7 +50,7 @@ permalink: /
 
 Wordplay: When Language Meets Games @ ACL 2024.<br/><br/>
 
-Date and time: August 2024, exact date TBD
+Date and time: August 16, 2024
 
 Location:  Bangkok, Thailand
 
