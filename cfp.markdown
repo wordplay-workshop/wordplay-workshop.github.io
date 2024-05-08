@@ -6,7 +6,7 @@ permalink: /cfp/
 
 **Submission website:** [OpenReview](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/Wordplay) 
 
-**Submission deadline:** ~~Apr 19~~ May 17, 2024, 23:59 (Anywhere On Earth)
+**Submission deadline:** ~~Apr 19~~ ~~May 17~~ May 31, 2024, 23:59 (Anywhere On Earth)
 
 **Author notification:** ~~May 24~~ June 17, 2024<br/><br/>
 
