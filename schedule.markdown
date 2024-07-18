@@ -10,7 +10,7 @@ permalink: /schedule/
   <tr>
     <th style="width: 15%">Bangkok Time</th>
     <th>Event</th>
-    <th style="width: 15%">Eastern Time</th>
+    <th style="width: 30%">Eastern Time</th>
   </tr>
   <tr>
     <td>09:20&nbsp;&ndash;&nbsp;09:40</td>
