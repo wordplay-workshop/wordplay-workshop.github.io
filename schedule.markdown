@@ -59,7 +59,7 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>16:00&nbsp;&ndash;&nbsp;16:50</td>
-    <td>Keynote 4 - Bodhisattwa Prasad Majumder (in-person)</td>
+    <td>Keynote 5 - Bodhisattwa Prasad Majumder (in-person)</td>
     <td>05:00&nbsp;&ndash;&nbsp;05:50</td>
   </tr>
   <tr>
