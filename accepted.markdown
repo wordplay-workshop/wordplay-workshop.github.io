@@ -4,20 +4,28 @@ title: /accepted_papers
 permalink: /accepted/
 ---
 
-### Long Papers
-* [A Systematic Survey of Text Worlds as Embodied Natural Language Environments](https://aclanthology.org/2022.wordplay-1.1/)
-* [Dungeons and Dragons as a Dialogue Challenge for Artificial Intelligence](https://wordplay-workshop.github.io/modern/assets/pdfs/4.pdf)
-* [A Minimal Computational Improviser Based on Oral Thought](https://aclanthology.org/2022.wordplay-1.2/)
-* [Craft an Iron Sword: Dynamically Generating Interactive Game Characters by Prompting Large Language Models Tuned on Code](https://aclanthology.org/2022.wordplay-1.3/)
-* [A Sequence Modelling Approach to Question Answering in Text-Based Games](https://aclanthology.org/2022.wordplay-1.4/)
-* [Instruction Following in Text-Based Games](https://wordplay-workshop.github.io/modern/assets/pdfs/9.pdf)
-* [Using Language Models to Convert Between Natural Language and Game Commands](https://wordplay-workshop.github.io/modern/assets/pdfs/10.pdf)
-* [Modeling Perspective-Dependent Ambiguity in Collaborative Dialogue](https://wordplay-workshop.github.io/modern/assets/pdfs/12.pdf)
 
-### Short Papers
-* [Towards Knowledge-Graph Constrained Generation for Text Adventure Games](https://wordplay-workshop.github.io/modern/assets/pdfs/7.pdf)
-* [Learning Neuro-Symbolic World Models for Text-Based Game Playing Agents](https://wordplay-workshop.github.io/modern/assets/pdfs/14.pdf)
-
-### Extended Abstracts
-* [Automatic Exploration of Textual Environments with Language-Conditioned Autotelic Agents](https://aclanthology.org/2022.wordplay-1.5/)
-* [Challenges in Explainability and Knowledge Extraction](https://wordplay-workshop.github.io/modern/assets/pdfs/13.pdf)
+* [Large Language Models as Minecraft Agents](https://wordplay-workshop.github.io/pdfs/1.pdf)
+* [Scaling Instructable Agents Across Many Simulated Worlds](https://wordplay-workshop.github.io/pdfs/2.pdf)
+* [Trace is the New AutoDiff — Unlocking Efficient Optimization of Computational Workflows](https://wordplay-workshop.github.io/pdfs/3.pdf)
+* [Hybrid Dialogue Management for Task-Oriented Dialogue in Video Games](https://wordplay-workshop.github.io/pdfs/4.pdf)
+* [PLUGH: A Benchmark for Spatial Understanding and Reasoning in Large Language Models](https://wordplay-workshop.github.io/pdfs/6.pdf)
+* [Communicate to Play: Pragmatic Reasoning for Efficient Cross-Cultural Communication in Codenames](https://wordplay-workshop.github.io/pdfs/7.pdf)
+* [“Hunt Takes Hare”: Theming Games Through Game-Word Vector Translation](https://wordplay-workshop.github.io/pdfs/8.pdf)
+* [Scaffolding Coordinates to Promote Vision-Language Coordination in Large Multi-Modal Models](https://wordplay-workshop.github.io/pdfs/10.pdf)
+* [You Have Thirteen Hours in Which to Solve the Labyrinth: Enhancing AI Game Masters with Function Calling](https://wordplay-workshop.github.io/pdfs/11.pdf)
+* [Strategic Insights in Human and Large Language Model Tactics at Word Guessing Games](https://wordplay-workshop.github.io/pdfs/12.pdf)
+* [DAGGER: Data Augmentation for Generative Gaming in Enriched Realms](https://wordplay-workshop.github.io/pdfs/13.pdf)
+* [Collaborative Quest Completion with LLM-driven Non-Player Characters in Minecraft](https://wordplay-workshop.github.io/pdfs/14.pdf)
+* [WorldWeaver: Procedural World Generation for Text Adventure Games using Large Language Models](https://wordplay-workshop.github.io/pdfs/15.pdf)
+* [Improvisational Games as a Benchmark for Social Intelligence of AI Agents: The Case of Connections](https://wordplay-workshop.github.io/pdfs/16.pdf)
+* [Guiding and Diversifying LLM-Based Story Generation via Answer Set Programming](https://wordplay-workshop.github.io/pdfs/17.pdf)
+* [Outwit, Outplay, Out-Generate: A Framework for Designing Strategic Generative Agents in Competitive Environments](https://wordplay-workshop.github.io/pdfs/18.pdf)
+* [Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games](https://wordplay-workshop.github.io/pdfs/19.pdf)
+* [Toward Human-AI Alignment in Large-Scale Multi-Player Games](https://wordplay-workshop.github.io/pdfs/20.pdf)
+* [BERALL: Towards Generating Retrieval-augmented State-based Interactive Fiction Games](https://wordplay-workshop.github.io/pdfs/21.pdf)
+* [Evaluating Creativity and Deception in Large Language Models: A Simulation Framework for Multi-Agent Balderdash](https://wordplay-workshop.github.io/pdfs/22.pdf)
+* [Thespian: Multi-Character Text Role-Playing Game Agents](https://wordplay-workshop.github.io/pdfs/23.pdf)
+* [AmongAgents: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game](https://wordplay-workshop.github.io/pdfs/24.pdf)
+* [AMAN: Agent for Mentoring and Assisting Newbies in MMORPG](https://wordplay-workshop.github.io/pdfs/25.pdf)
+* [What if Red Can Talk? Dynamic Dialogue Generation Using Large Language Models](https://wordplay-workshop.github.io/pdfs/26.pdf)
