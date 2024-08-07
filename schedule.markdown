@@ -45,7 +45,7 @@ permalink: /schedule/
   <tr>
     <td>13:40&nbsp;&ndash;&nbsp;14:40</td>
     <td>Lightning talks by remote presenters (recordings)</td>
-    <td>02:50&nbsp;&ndash;&nbsp;03:40</td>
+    <td>02:40&nbsp;&ndash;&nbsp;03:40</td>
   </tr>
   <tr>
     <td>14:40&nbsp;&ndash;&nbsp;15:30</td>
