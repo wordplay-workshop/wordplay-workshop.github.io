@@ -50,11 +50,12 @@ permalink: /
 
 Wordplay: When Language Meets Games @ ACL 2024.<br/><br/>
 
-Date and time: August 16, 2024
+**Date and time:** August 16, 2024
 
-Location:  Bangkok, Thailand
+**Location:** Bangkok, Thailand at the Centara Grand and Bangkok Convention Centre - Lotus Suite 12
 
-Virtual links: TBD
+**Virtual links:**
+Gather: [https://app.gather.town/app/7Rf2IGR6LODvPyOx/ACL2024Workshops?spawnToken=OGhTBihkR42v90hpYC0M](https://app.gather.town/app/7Rf2IGR6LODvPyOx/ACL2024Workshops?spawnToken=OGhTBihkR42v90hpYC0M)
 
 # One line version: Your one stop shop for all things interactive narrative + AI!
 
