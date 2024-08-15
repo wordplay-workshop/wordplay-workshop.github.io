@@ -55,9 +55,9 @@ Wordplay: When Language Meets Games @ ACL 2024.<br/><br/>
 **Location:** Bangkok, Thailand at the Centara Grand and Bangkok Convention Centre - Lotus Suite 12
 
 **Virtual links:**
-Gather: [https://app.gather.town/app/7Rf2IGR6LODvPyOx/ACL2024Workshops?spawnToken=OGhTBihkR42v90hpYC0M](https://app.gather.town/app/7Rf2IGR6LODvPyOx/ACL2024Workshops?spawnToken=OGhTBihkR42v90hpYC0M)
+Gather: [HERE](https://app.gather.town/app/7Rf2IGR6LODvPyOx/ACL2024Workshops?spawnToken=OGhTBihkR42v90hpYC0M)
 
-Zoom: [https://us06web.zoom.us/j/83728306236?pwd=s6a9RZycG10NSH4EkTxYzXkK9VIFjT.1](https://us06web.zoom.us/j/83728306236?pwd=s6a9RZycG10NSH4EkTxYzXkK9VIFjT.1)
+Zoom: [HERE](https://us06web.zoom.us/j/83728306236?pwd=s6a9RZycG10NSH4EkTxYzXkK9VIFjT.1)
 
 # One line version: Your one stop shop for all things interactive narrative + AI!
 
