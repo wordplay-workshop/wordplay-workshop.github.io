@@ -48,16 +48,11 @@ permalink: /
 <br/> <br/>
 
 
-Wordplay: When Language Meets Games @ ACL 2024.<br/><br/>
+Wordplay: When Language Meets Games @ EMNLP 2025.<br/><br/>
 
-**Date and time:** August 16, 2024
+**Date and time:** November 5th-9th, 2025
 
-**Location:** Bangkok, Thailand at the Centara Grand and Bangkok Convention Centre - Lotus Suite 12
-
-**Virtual links:**
-Gather: [HERE](https://app.gather.town/app/7Rf2IGR6LODvPyOx/ACL2024Workshops?spawnToken=OGhTBihkR42v90hpYC0M)
-
-Zoom: [HERE](https://us06web.zoom.us/j/83728306236?pwd=s6a9RZycG10NSH4EkTxYzXkK9VIFjT.1)
+**Location:** Suzhou, China
 
 # One line version: Your one stop shop for all things interactive narrative + AI!
 
