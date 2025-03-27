@@ -50,7 +50,7 @@ permalink: /
 
 Wordplay: When Language Meets Games @ EMNLP 2025.<br/><br/>
 
-**Date and time:** TBD
+**Date and time:** November 5th-9th, 2025
 
 **Location:** Suzhou, China
 
