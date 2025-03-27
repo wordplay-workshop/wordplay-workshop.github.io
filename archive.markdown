@@ -1,7 +1,7 @@
 ---
 layout: page
 title: /archive
-permalink: /proceedings/
+permalink: /archive/
 ---
 
 * [4th Wordplay: When Language Meets Games](https://wordplay-workshop.github.io/wordplay2024) at ACL 2024, Bangkok, Thailand.
