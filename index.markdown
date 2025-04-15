@@ -54,6 +54,8 @@ Wordplay: When Language Meets Games @ EMNLP 2025.<br/><br/>
 
 **Location:** Suzhou, China
 
+**Shared task:** [Official website](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025)
+
 # One line version: Your one stop shop for all things interactive narrative + AI!
 
 ### The slightly longer version
