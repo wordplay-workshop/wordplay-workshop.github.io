@@ -1,7 +1,10 @@
 ---
 layout: page
-title: /competition
-permalink: /competition/
+title: /shared_task
+permalink: /shared_task/
 ---
 
-**Competition website:** [TBD](https://wordplay-workshop.github.io/) 
+**Shared task : Common-sense Persona-Grounded Dialogue Challenge (CPDC) 2025** 
+
+* Total price value: USD 20,000!!!
+* [Official website](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025) 
