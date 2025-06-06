@@ -1,0 +1,54 @@
+/* Custom CSS overrides for Wordplay Workshop */
+
+/* Extend the header menu borders to match content width */
+.menu {
+  /* Make sure the border extends across the full width */
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* Ensure the menu container spans the full width */
+.menu ul {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 12px 0;
+  padding: 0;
+}
+
+/* Alternative: Use pseudo-elements to create longer ASCII-style lines */
+.menu::before,
+.menu::after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 1px;
+  background-image: repeating-linear-gradient(
+    to right,
+    rgba(0, 255, 0, 0.9) 0px,
+    rgba(0, 255, 0, 0.9) 4px,
+    transparent 4px,
+    transparent 8px
+  );
+}
+
+.menu::before {
+  margin-bottom: 12px;
+}
+
+.menu::after {
+  margin-top: 12px;
+}
+
+/* Hide the original borders */
+.menu {
+  border-top: none !important;
+  border-bottom: none !important;
+}
+
+/* Ensure the ASCII lines are responsive */
+@media only screen and (max-device-width: 500px) {
+  .menu::before,
+  .menu::after {
+    width: 100%;
+  }
+}

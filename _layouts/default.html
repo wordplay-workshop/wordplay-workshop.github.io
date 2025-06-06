@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+    <div class="container">
+
+      {%- include header.html -%}
+
+    <main>
+      {{ content }}
+    </main>
+
+    {%- include footer.html -%}
+
+    </div>
+    
+    <!-- Custom CSS for extended ASCII lines -->
+    <style>
+      /* Custom CSS overrides for Wordplay Workshop */
+      
+      /* Remove original borders and add full-width ASCII lines */
+      .menu {
+        border-top: none !important;
+        border-bottom: none !important;
+        position: relative;
+        width: 100%;
+        box-sizing: border-box;
+      }
+      
+      .menu::before,
+      .menu::after {
+        content: "─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────";
+        display: block;
+        color: rgba(0, 255, 0, 0.9);
+        font-family: monospace;
+        font-size: 14px;
+        line-height: 1;
+        text-align: left;
+        width: 100%;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+
+      .menu::before {
+        margin-bottom: 12px;
+      }
+
+      .menu::after {
+        margin-top: 12px;
+      }
+
+      /* Ensure it works on mobile */
+      @media only screen and (max-device-width: 500px) {
+        .menu::before,
+        .menu::after {
+          font-size: 12px;
+        }
+      }
+    </style>
+  </body>
+</html>
