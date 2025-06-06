@@ -9,17 +9,37 @@ layout: default
     max-width: 600px;
     text-align: center;
   }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
+  .error-code {
+    font-family: monospace;
+    font-size: 6em;
     line-height: 1;
-    letter-spacing: -1px;
+    margin: 30px 0;
+  }
+  .ascii-art {
+    font-family: monospace;
+    font-size: 12px;
+    line-height: 1;
+    white-space: pre;
+    margin: 20px 0;
   }
 </style>
 
 <div class="container">
-  <h1>404</h1>
+  <div class="error-code">404</div>
+  
+  <div class="ascii-art">
+ _____ _____  _____   _____ _____  
+|   __|   __|   | | |   __|  |  | 
+|   __|     | | | | |   __|     | 
+|_____|_____| |___| |_____|__|__| 
+                                  
+  </div>
 
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <h2>Game Over!</h2>
+  <p><strong>Page not found in this dimension :(</strong></p>
+  <p>Looks like you've wandered into an unexplored area of our interactive narrative!</p>
+  
+  <p><a href="/">Return to the main quest</a></p>
+  <p><a href="/cfp/">Check out our Call for Papers</a></p>
+  <p><a href="/faq/">Visit our FAQ</a></p>
 </div>

@@ -8,9 +8,9 @@ title: /overview
 permalink: /
 ---
 
-<div class="tooltip" style="text-align: center; display: block;" >
+<div class="tooltip" style="text-align: center; display: block;" role="banner" aria-label="Wordplay Workshop Title">
 <span class="tooltiptext">Wordplay: When Language Meets Games</span>
-<pre style="font-size: calc(2px + 0.4vw) !important; overflow: visible;">
+<pre style="font-size: calc(2px + 0.4vw) !important; overflow: visible;" aria-hidden="true">
 <br/>
                                     $$\      $$\                           $$\           $$\                                                 
                                     $$ | $\  $$ |                          $$ |          $$ |                                                
@@ -45,27 +45,43 @@ permalink: /
 <div style="text-align: center;">
 <a href="https://wordplay-workshop.github.io/modern/" class="future">Back to the future &#8250;&#8250;&#8250;</a>
 </div>
-<br/> <br/>
+
+---
+
+## Quick Navigation
+- [**Call for Papers**](/cfp/) - Submit your research!
+- [**Competition**](/competition/) - Join the CPDC challenge
+- [**FAQ**](/faq/) - Common questions answered
+- [**Organizers**](/organizers/) - Meet the team
+- [**Speakers**](/speakers/) - Featured talks
+- [**Archive**](/archive/) - Past workshops
+
+## Key Dates
+- **Submission deadline:** August 29, 2025 (AoE) - *Less than 3 months away!*
+- **Author notification:** September 26, 2025
+- **Workshop dates:** November 5th-9th, 2025
+
+> **Quick tip:** The submission deadline is approaching fast! Start preparing your papers now.
+
+---
 
 
-Wordplay: When Language Meets Games @ EMNLP 2025.<br/><br/>
+Wordplay: When Language Meets Games @ EMNLP 2025
 
-**Date and time:** November 5th-9th, 2025
-
-**Location:** Suzhou, China
-
-**Shared task:** [Official website](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025)
-
+**Date and time:** November 5th-9th, 2025  
+**Location:** Suzhou, China  
+**Shared task:** [Official website](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025)  
 **Submission website:** [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay)
 
-# One line version: Your one stop shop for all things interactive narrative + AI!
+---
+
+## One line version: Your one stop shop for all things interactive narrative + AI!
 
 ### The slightly longer version
 
-This workshop will focus on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A few previous iterations of this workshop took place very successfully with hundreds of attendees, at NeurIPS 2018, NeurIPS 2020, & NAACL 2022. Since then, the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.  <br /> <br />
+This workshop will focus on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A few previous iterations of this workshop took place very successfully with hundreds of attendees, at NeurIPS 2018, NeurIPS 2020, & NAACL 2022. Since then, the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.
 
-
-We like all things:
+**We like all things:**
 - Interactive narrative: game playing RL agents, game generation, etc.
 - Interactive language learning
 - Natural language generation
@@ -81,12 +97,15 @@ Recent work has shown that interactive narrative &mdash; a setting at the inters
 Finally, interactive narrative enables us to study storytelling with LLMs. Storytelling is a powerful, age-old form of human communication that, if mastered by machines, could greatly enhance their ability to engage entertainingly with people. It features many of the challenges discussed previously, including _long-term coherence_, and _genre-specific and everyday commonsense reasoning_. Automated storytelling intersects with interactive narrative in several ways, including: generation of language-based environments and scenarios [Guzdial et al., 2015; Fan et al., 2019; Tamari et al., 2019; Womack and Freeman, 2019; Ammanabrolu et al., 2020a,b]; improvisational or collaborative in-game storytelling [Martin et al., 2016, 2017; Mirowski and Mathewson, 2019]; or persona-driven situated dialogue [Urbanek et al., 2019; Prabhumoye et al., 2020; Callison-Burch et al., 2022; Park et al., 2023] for NPCs.
 
 
-# Diversity and Inclusion
+---
 
-This workshop aims to provide an environment with open exchange of ideas, freedom of thought and expression, and respectful scientific debate. Thus harassment and hostile behavior (Including but not limited to harassment based on race, gender, religion, age, color, appearance, national origin, ancestry, disability, sexual orientation, or gender identity.) are unwelcome in the workshop.  <br /> <br />
+## Diversity and Inclusion
 
+This workshop aims to provide an environment with open exchange of ideas, freedom of thought and expression, and respectful scientific debate. Thus harassment and hostile behavior (including but not limited to harassment based on race, gender, religion, age, color, appearance, national origin, ancestry, disability, sexual orientation, or gender identity) are unwelcome in the workshop.
 
-During the workshop, any participant who experiences harassment or hostile behavior may contact any of our organizing committee members, the organizers will take actions upon the situation to make sure we have a diverse, inclusive and friendly environment.
+During the workshop, any participant who experiences harassment or hostile behavior may contact any of our organizing committee members. The organizers will take action upon the situation to ensure we have a diverse, inclusive and friendly environment.
+
+---
 
 
 # References
