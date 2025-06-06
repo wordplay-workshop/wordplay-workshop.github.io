@@ -56,7 +56,7 @@ Wordplay: When Language Meets Games @ EMNLP 2025.<br/><br/>
 
 **Shared task:** [Official website](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025)
 
-**Call for paper:** [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay)
+**Submission website:** [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay)
 
 # One line version: Your one stop shop for all things interactive narrative + AI!
 
