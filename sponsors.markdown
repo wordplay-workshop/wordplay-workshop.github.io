@@ -13,9 +13,9 @@ We are grateful to our sponsors for their generous support of Wordplay 2025. The
 <div style="text-align: center; margin-bottom: 3em;">
 <img src="https://wordplay-workshop.github.io/img/sponsor/Microsoft_logo.svg" alt="Microsoft" width="300" style="background-color: white; padding: 20px; border-radius: 10px; margin-bottom: 1em;">
 <br>
-<h3>Microsoft</h3>
 <p style="max-width: 600px; margin: 0 auto; text-align: left;">
-[Placeholder paragraph for Microsoft sponsorship details. This space will contain information about Microsoft's support for the workshop, their research interests in language and AI, and their contributions to the field of natural language processing and interactive systems.]
+**[Register now to join the Microsoft Research Forum](https://register.researchforum.microsoft.com/)**
+Join us for a continuous exchange of ideas about science and technology research in the era of general AI. This series explores recent research advances, bold new ideas, and important discussions with the research community.
 </p>
 </div>
 
@@ -24,7 +24,6 @@ We are grateful to our sponsors for their generous support of Wordplay 2025. The
 <div style="text-align: center; margin-bottom: 3em;">
 <img src="https://wordplay-workshop.github.io/img/sponsor/Sony_logo.svg" alt="Sony" width="300" style="background-color: white; padding: 20px; border-radius: 10px; margin-bottom: 1em;">
 <br>
-<h3>Sony</h3>
 <p style="max-width: 600px; margin: 0 auto; text-align: left;">
 [Placeholder paragraph for Sony sponsorship details. This space will contain information about Sony's support for the workshop, their research initiatives in AI and gaming, and their contributions to interactive entertainment and language technologies.]
 </p>
