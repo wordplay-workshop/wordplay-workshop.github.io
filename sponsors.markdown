@@ -11,7 +11,7 @@ We are grateful to our sponsors for their generous support of Wordplay 2025. The
 ---
 
 <div style="text-align: center; margin-bottom: 3em;">
-<img src="https://wordplay-workshop.github.io/img/sponsor/Microsoft_logo.svg" alt="Microsoft" width="300" style="margin-bottom: 1em;">
+<img src="https://wordplay-workshop.github.io/img/sponsor/Microsoft_logo.svg" alt="Microsoft" width="300" style="background-color: white; padding: 20px; border-radius: 10px; margin-bottom: 1em;">
 <br>
 <h3>Microsoft</h3>
 <p style="max-width: 600px; margin: 0 auto; text-align: left;">
@@ -22,7 +22,7 @@ We are grateful to our sponsors for their generous support of Wordplay 2025. The
 ---
 
 <div style="text-align: center; margin-bottom: 3em;">
-<img src="https://wordplay-workshop.github.io/img/sponsor/Sony_logo.svg" alt="Sony" width="300" style="margin-bottom: 1em;">
+<img src="https://wordplay-workshop.github.io/img/sponsor/Sony_logo.svg" alt="Sony" width="300" style="background-color: white; padding: 20px; border-radius: 10px; margin-bottom: 1em;">
 <br>
 <h3>Sony</h3>
 <p style="max-width: 600px; margin: 0 auto; text-align: left;">
