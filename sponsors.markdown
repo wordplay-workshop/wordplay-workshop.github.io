@@ -25,7 +25,7 @@ Join us for a continuous exchange of ideas about science and technology research
 <img src="https://wordplay-workshop.github.io/img/sponsor/Sony_logo.svg" alt="Sony" width="300" style="background-color: white; padding: 20px; border-radius: 10px; margin-bottom: 1em;">
 <br>
 <p style="max-width: 600px; margin: 0 auto; text-align: left;">
-[Placeholder paragraph for Sony sponsorship details. This space will contain information about Sony's support for the workshop, their research initiatives in AI and gaming, and their contributions to interactive entertainment and language technologies.]
+We gratefully thank Sony for their support in organizing the Wordplay workshop, especially in organizing the CPDC challenge!
 </p>
 </div>
 
