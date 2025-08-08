@@ -14,7 +14,7 @@ Meet the team behind Wordplay 2025! Our organizers bring together expertise from
 <img src="https://wordplay-workshop.github.io/img/raj.jpg" alt="Prithviraj Ammanabrolu" width="250" style="border-radius: 10px;">
 <br>
 <strong><a href="http://prithvirajva.com">Prithviraj Ammanabrolu</a></strong><br>
-MosaicML & University of California, San Diego (UCSD)
+University of California, San Diego (UCSD) & Nvidia
 </div>
 
 <div style="text-align: center; margin-bottom: 2em;">
