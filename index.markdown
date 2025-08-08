@@ -48,18 +48,10 @@ permalink: /
 
 ---
 
-## Quick Navigation
-- [**Call for Papers**](/cfp/) - Submit your research!
-- [**Competition**](/competition/) - Join the CPDC challenge
-- [**FAQ**](/faq/) - Common questions answered
-- [**Organizers**](/organizers/) - Meet the team
-- [**Speakers**](/speakers/) - Featured talks
-- [**Archive**](/archive/) - Past workshops
-
 ## Key Dates
 - **Submission deadline:** August 29, 2025 (AoE) - *Less than 3 months away!*
 - **Author notification:** September 26, 2025
-- **Workshop dates:** November 5th-9th, 2025
+- **Workshop dates:** November 9th, 2025
 
 > **Quick tip:** The submission deadline is approaching fast! Start preparing your papers now.
 
@@ -79,7 +71,7 @@ Wordplay: When Language Meets Games @ EMNLP 2025
 
 ### The slightly longer version
 
-This workshop will focus on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A few previous iterations of this workshop took place very successfully with hundreds of attendees, at NeurIPS 2018, NeurIPS 2020, & NAACL 2022. Since then, the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.
+This workshop will focus on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A few previous iterations of this workshop took place very successfully with hundreds of attendees, at NeurIPS 2018, NeurIPS 2020, NAACL 2022, and ACL 2024. Since then, the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.
 
 **We like all things:**
 - Interactive narrative: game playing RL agents, game generation, etc.
