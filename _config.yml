@@ -49,16 +49,16 @@ defaults:
 #
 header_pages:
     - index.markdown
-    - cfp.markdown
     - competition.markdown
-    - faq.markdown
+    - cfp.markdown
     # - accepted.markdown
-    - organizers.markdown
     # - reviewers.markdown
     # - pc.markdown
     # - schedule.markdown
     - speakers.markdown
+    - organizers.markdown
     - sponsors.markdown
+    - faq.markdown
     - archive.markdown
 
 style: hacker
