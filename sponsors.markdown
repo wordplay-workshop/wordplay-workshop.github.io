@@ -14,8 +14,8 @@ We are grateful to our sponsors for their generous support of Wordplay 2025. The
 <img src="https://wordplay-workshop.github.io/img/sponsor/Microsoft_logo.svg" alt="Microsoft" width="300" style="background-color: white; padding: 20px; border-radius: 10px; margin-bottom: 1em;">
 <br>
 <p style="max-width: 600px; margin: 0 auto; text-align: left;">
-**[Register now to join the Microsoft Research Forum](https://register.researchforum.microsoft.com/)**
-Join us for a continuous exchange of ideas about science and technology research in the era of general AI. This series explores recent research advances, bold new ideas, and important discussions with the research community.
+<strong><a href="https://register.researchforum.microsoft.com/">Register now to join the Microsoft Research Forum</a></strong><br><br>
+Join us for a continuous exchange of ideas about science and technology research in the era of general AI. This series explores recent research advances, bold new ideas, and important discussions with the research community.
 </p>
 </div>
 
