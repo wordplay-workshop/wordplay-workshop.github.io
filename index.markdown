@@ -49,7 +49,7 @@ permalink: /
 ---
 
 ## Key Dates
-- **Submission deadline:** August 29, 2025 (AoE) - *Less than 3 months away!*
+- **Submission deadline:** ~~August 29, 2025~~ September 12, 2025, 23:59 (AoE)
 - **Author notification:** September 26, 2025
 - **Workshop dates:** November 9th, 2025
 
