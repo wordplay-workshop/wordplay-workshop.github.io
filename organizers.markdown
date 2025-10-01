@@ -56,7 +56,7 @@ University of California, San Diego (UCSD)
 <img src="https://wordplay-workshop.github.io/img/ruoyao.jpeg" alt="Ruoyao Wang" width="250" style="border-radius: 10px;">
 <br>
 <strong><a href="https://ruoyao-wang.github.io/">Ruoyao Wang</a></strong><br>
-University of Arizona
+Central University of Finance and Economics
 </div>
 
 <div style="text-align: center; margin-bottom: 2em;">
