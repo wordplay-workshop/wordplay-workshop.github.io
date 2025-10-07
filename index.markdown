@@ -46,24 +46,14 @@ $$  /   \$$ |$$ |  $$ |\$$$$$$$\ $$ |  $$ |      $$$$$$$$\ \$$$$$$$ |$$ |  $$ |\
 <a href="https://wordplay-workshop.github.io/modern/" class="future">Back to the future &#8250;&#8250;&#8250;</a>
 </div>
 
----
-
-## Key Dates
-- **Submission deadline:** ~~August 29, 2025~~ September 12, 2025, 23:59 (AoE)
-- **Author notification:** September 26, 2025
-- **Workshop dates:** November 9th, 2025
-
-> **Quick tip:** The submission deadline is approaching fast! Start preparing your papers now.
-
----
-
 
 Wordplay: When Language Meets Games @ EMNLP 2025
 
-**Date and time:** November 5th-9th, 2025  
-**Location:** Suzhou, China  
+**Date and time:** November 9th, 2025 - 09:00 to 17:00 (China Standard Time)
+**Location:** Suzhou, China
+**Schedule:** [Here](https://wordplay-workshop.github.io/schedule/)
 **Shared task:** [Official website](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025)  
-**Submission website:** [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay)
+~~**Submission website:** [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay)~~
 
 ---
 
@@ -135,4 +125,3 @@ During the workshop, any participant who experiences harassment or hostile behav
 - X. Yuan, M.-A. Côté, J. Fu, Z. Lin, C. Pal, Y. Bengio, and A. Trischler. Interactive Language Learning by Question Answering. 2019.
 - T. Zahavy, M. Haroush, N. Merlis, D. J. Mankowitz, and S. Mannor. Learn What Not to Learn: Action Elimination with Deep Reinforcement Learning. 2018.
 - A. Zhu, K. Aggarwal, A. Feng, L. J. Martin, and C. Callison-Burch. FIREBALL: A Dataset of Dungeons and Dragons Actual-Play with Structured Game State Information. 2023.
-

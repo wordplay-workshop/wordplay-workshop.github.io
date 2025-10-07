@@ -50,11 +50,10 @@ defaults:
 header_pages:
     - index.markdown
     - competition.markdown
-    - cfp.markdown
-    # - accepted.markdown
-    # - reviewers.markdown
-    # - pc.markdown
-    # - schedule.markdown
+    # - cfp.markdown
+    - accepted.markdown
+    - reviewers.markdown
+    - schedule.markdown
     - speakers.markdown
     - organizers.markdown
     - sponsors.markdown
