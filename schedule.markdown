@@ -39,7 +39,7 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>12:00&nbsp;&ndash;&nbsp;13:00</td>
-    <td>Lunch Break (60 minutes)</td>
+    <td>Lunch Break and Posters (60 minutes)</td>
     <td>20:00&nbsp;&ndash;&nbsp;21:00 (Nov 8)</td>
   </tr>
   <tr>
