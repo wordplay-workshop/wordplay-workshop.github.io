@@ -45,7 +45,7 @@ $$  /   \$$ |$$ |  $$ |\$$$$$$$\ $$ |  $$ |      $$$$$$$$\ \$$$$$$$ |$$ |  $$ |\
 <div style="text-align: center;">
 <a href="https://wordplay-workshop.github.io/modern/" class="future">Back to the future &#8250;&#8250;&#8250;</a>
 </div>
-
+<br/> <br/>
 
 Wordplay: When Language Meets Games @ EMNLP 2025
 

@@ -4,7 +4,7 @@ title: /speakers
 permalink: /speakers/
 ---
 
-<img src="https://wordplay-workshop.github.io/img/diyi.jpeg" alt="Diyi" width="200"/>
+<img src="https://wordplay-workshop.github.io/img/diyi.jpg" alt="Diyi" width="200"/>
 [Diyi Yang](https://cs.stanford.edu/~diyiy/)<br>Stanford University <br><br>
 {: style="text-align: center;"}
 
