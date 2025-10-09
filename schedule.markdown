@@ -19,12 +19,12 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>09:00&nbsp;&ndash;&nbsp;09:45</td>
-    <td>Invited Talk 1</td>
+    <td>Sudha Rao - Invited Talk 1</td>
     <td>17:00&nbsp;&ndash;&nbsp;17:45 (Nov 8)</td>
   </tr>
   <tr>
     <td>09:45&nbsp;&ndash;&nbsp;10:30</td>
-    <td>Invited Talk 2</td>
+    <td>Xin (Eric) Wang - Invited Talk 2</td>
     <td>17:45&nbsp;&ndash;&nbsp;18:30 (Nov 8)</td>
   </tr>
   <tr>
@@ -49,12 +49,12 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>14:00&nbsp;&ndash;&nbsp;14:45</td>
-    <td>Invited Talk 3</td>
+    <td>Diyi Yang - Beyond Exams: Evaluating LLM Agents Through Interactive Collaboration and Competition</td>
     <td>22:00&nbsp;&ndash;&nbsp;22:45 (Nov 8)</td>
   </tr>
   <tr>
     <td>14:45&nbsp;&ndash;&nbsp;15:30</td>
-    <td>Invited Talk 4</td>
+    <td>Boyang Li - Invited Talk 4</td>
     <td>22:45&nbsp;&ndash;&nbsp;23:30 (Nov 8)</td>
   </tr>
   <tr>
@@ -64,7 +64,7 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>16:00&nbsp;&ndash;&nbsp;16:45</td>
-    <td>Invited Talk 5</td>
+    <td>Jaewoo Ahn - LLM Agents for In-the-Wild Video Game-Playing</td>
     <td>00:00&nbsp;&ndash;&nbsp;00:45</td>
   </tr>
   <tr>
