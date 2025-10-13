@@ -33,24 +33,29 @@ permalink: /schedule/
     <td>18:30&nbsp;&ndash;&nbsp;19:00 (Nov 8)</td>
   </tr>
   <tr>
-    <td>11:00&nbsp;&ndash;&nbsp;12:00</td>
-    <td>Common-sense Persona-Grounded Dialogue Challenge (CPDC) 2025</td>
-    <td>19:00&nbsp;&ndash;&nbsp;20:00 (Nov 8)</td>
-  </tr>
-  <tr>
-    <td>12:00&nbsp;&ndash;&nbsp;13:00</td>
-    <td>Lunch Break and Posters (60 minutes)</td>
-    <td>20:00&nbsp;&ndash;&nbsp;21:00 (Nov 8)</td>
-  </tr>
-  <tr>
-    <td>13:00&nbsp;&ndash;&nbsp;14:00</td>
-    <td>Lightning Talks</td>
-    <td>21:00&nbsp;&ndash;&nbsp;22:00 (Nov 8)</td>
-  </tr>
-  <tr>
-    <td>14:00&nbsp;&ndash;&nbsp;14:45</td>
+    <td>11:00&nbsp;&ndash;&nbsp;11:45</td>
     <td>Beyond Exams: Evaluating LLM Agents Through Interactive Collaboration and Competition - <em>Diyi Yang</em></td>
-    <td>22:00&nbsp;&ndash;&nbsp;22:45 (Nov 8)</td>
+    <td>19:00&nbsp;&ndash;&nbsp;19:45 (Nov 8)</td>
+  </tr>
+  <tr>
+    <td>11:45&nbsp;&ndash;&nbsp;12:00</td>
+    <td>Lightning Talks - Outstanding Papers</td>
+    <td>19:45&nbsp;&ndash;&nbsp;20:00 (Nov 8)</td>
+  </tr>
+  <tr>
+    <td>12:00&nbsp;&ndash;&nbsp;13:15</td>
+    <td>Lunch Break and Posters (75 minutes)</td>
+    <td>20:00&nbsp;&ndash;&nbsp;21:15 (Nov 8)</td>
+  </tr>
+  <tr>
+    <td>13:15&nbsp;&ndash;&nbsp;13:45</td>
+    <td>Lightning Talks - Spotlight Papers</td>
+    <td>21:15&nbsp;&ndash;&nbsp;21:45 (Nov 8)</td>
+  </tr>
+  <tr>
+    <td>13:45&nbsp;&ndash;&nbsp;14:45</td>
+    <td>Common-sense Persona-Grounded Dialogue Challenge (CPDC) 2025</td>
+    <td>21:45&nbsp;&ndash;&nbsp;22:45 (Nov 8)</td>
   </tr>
   <tr>
     <td>14:45&nbsp;&ndash;&nbsp;15:30</td>
