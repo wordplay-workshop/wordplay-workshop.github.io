@@ -19,12 +19,12 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>09:00&nbsp;&ndash;&nbsp;09:45</td>
-    <td>Invited Talk 1 - <em>Sudha Rao</em></td>
+    <td>Using generative AI to transform narrative design in games - <em>Sudha Rao</em></td>
     <td>17:00&nbsp;&ndash;&nbsp;17:45 (Nov 8)</td>
   </tr>
   <tr>
     <td>09:45&nbsp;&ndash;&nbsp;10:30</td>
-    <td>Invited Talk 2 - <em>Xin (Eric) Wang</em></td>
+    <td>Building AI Agents that Reason and Act Like Humans - <em>Xin (Eric) Wang</em></td>
     <td>17:45&nbsp;&ndash;&nbsp;18:30 (Nov 8)</td>
   </tr>
   <tr>
