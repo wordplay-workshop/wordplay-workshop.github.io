@@ -59,7 +59,7 @@ permalink: /schedule/
   </tr>
   <tr>
     <td>14:45&nbsp;&ndash;&nbsp;15:30</td>
-    <td>Invited Talk 4 - <em>Boyang Li</em></td>
+    <td>Causality and Intention: What narrative understanding teaches us about AGI - <em>Boyang Li</em></td>
     <td>22:45&nbsp;&ndash;&nbsp;23:30 (Nov 8)</td>
   </tr>
   <tr>
