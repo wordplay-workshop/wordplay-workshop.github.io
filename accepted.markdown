@@ -47,3 +47,4 @@ permalink: /accepted/
 * [Beyond One World: Benchmarking Super Heros in Role-Playing Across Multiversal Contexts](https://wordplay-workshop.github.io/pdfs/39.pdf)
 * [Rational Irrationality: Evaluating LLMs in Games with Strategic Behavior Discrepancies](https://wordplay-workshop.github.io/pdfs/40.pdf)
 * [Shall We Play a Game? Language Models for Open-ended Wargames](https://wordplay-workshop.github.io/pdfs/41.pdf)
+* [Iterative Prompt Engineering for NPC Dialogue Generation: CPDC 2025 API Track](https://wordplay-workshop.github.io/pdfs/42.pdf)
