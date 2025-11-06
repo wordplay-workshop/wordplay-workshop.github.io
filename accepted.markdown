@@ -31,7 +31,7 @@ permalink: /accepted/
 * [TRPG Game Mastering Using LLM-Based Multi-Agent System](https://wordplay-workshop.github.io/pdfs/20.pdf)
 * [Two-Stage Tool-Enhanced NPC Dialogue for CPDC 2025: GPU-Track Submission to Task 1 and Task 2](https://wordplay-workshop.github.io/pdfs/21.pdf)
 * [GenQuest: An LLM-based Text Adventure Game for Language Learners](https://wordplay-workshop.github.io/pdfs/22.pdf)
-* [BaZi-Based Character Simulation Benchmark: Evaluating AI on Temporal and Persona Reasoning](https://wordplay-workshop.github.io/pdfs/23.pdf)
+* [BaZi-Based Character Simulation Benchmark: Evaluating AI on Temporal and Persona Reasoning](https://wordplay-workshop.github.io/pdfs/23.pdf)[^1]
 * [Inference-Time Value Alignment in Offline Reinforcement Learning: Leveraging LLMs for Reward and Ethical Guidance](https://wordplay-workshop.github.io/pdfs/24.pdf)
 * [LLM-Hanabi: Evaluating Multi-Agent Gameplays with Theory-of-Mind and Rationale Inference in Imperfect Information Collaboration Game](https://wordplay-workshop.github.io/pdfs/25.pdf)
 * [Exploring Cooperative Behavior in LLMs with Game Theory](https://wordplay-workshop.github.io/pdfs/27.pdf)
@@ -48,3 +48,6 @@ permalink: /accepted/
 * [Rational Irrationality: Evaluating LLMs in Games with Strategic Behavior Discrepancies](https://wordplay-workshop.github.io/pdfs/40.pdf)
 * [Shall We Play a Game? Language Models for Open-ended Wargames](https://wordplay-workshop.github.io/pdfs/41.pdf)
 * [Iterative Prompt Engineering for NPC Dialogue Generation: CPDC 2025 API Track](https://wordplay-workshop.github.io/pdfs/42.pdf)
+
+---
+[^1]: Neither EMNLP nor the Wordplay Workshop is backing the metaphysics concepts; we see value of the work under the context of game generation and storytelling.
